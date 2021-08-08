@@ -1,3 +1,3 @@
-# Arduino_KSS_Panel
-I/O Panel with Keypad and 6 digit seven segment LED Display
-This is small Arduino library for Input/Output Panel board on the AVR microcontroller
+# Universal I/O Panel
+## Input/Output Universal Panel with Keypad and Display.
+This is the universal C/C++ library for "Input/Output Panel" board on the microcontroller, wuth Seven Segment LED Display, and/or simple buttons keypad, optional buzzer and TWI for communication.
